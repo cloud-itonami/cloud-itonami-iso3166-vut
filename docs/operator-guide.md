@@ -18,7 +18,7 @@ Investment Act 2019) must obtain that certificate before the engagement
 proceeds -- this repo's catalog cites VIPA/FIAC in the evidence
 checklist but, honestly, does not independently model a sectoral
 eligibility gate (no Reserved/Restricted-List text could be confirmed
-this session; see `src/marketentry/facts.cljc`).
+this session; see `src/marketentry/facts.cljk`).
 
 A Government Contract of VT 10,000,000 or above additionally requires a
 verified Tax Administration Act No. 37 of 2018 s.51 tax clearance

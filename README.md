@@ -49,7 +49,7 @@ as every other `cloud-itonami-iso3166-*` sibling:
   including facts this iteration could NOT verify (e.g. VIPA's own
   Reserved/Restricted-List sectoral gate, and a local-representative/
   agent section number).
-- `src/statute/facts.cljc` -- general-law catalog: the Companies Act
+- `src/statute/facts.cljk` -- general-law catalog: the Companies Act
   No. 25 of 2012 (company law) and the Employment Act [CAP 160] (Act 1
   of 1983) (general labour law -- a genuinely GENERAL statute, unlike
   the Tonga sibling catalog's own honestly-narrower Immigration Act
@@ -77,7 +77,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Vanuatu:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
